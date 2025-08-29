@@ -1,0 +1,11 @@
+paths:
+  data_dir: data
+  out_dir: out
+
+inputs:
+  # HIRA 9자리 제품코드 포함 약제목록 엑셀
+  hira_list_xlsx: "약제급여목록및급여상한금액표_(2025.8.1.)(21,953)_공개용_7.31. 1부.xlsx"
+  # 제품코드 ↔ ATC 매핑 CSV
+  atc_csv: "건강보험심사평가원_ATC코드 매핑 목록_20240630.csv"
+  # 심평원 약가마스터 의약품주성분 CSV(분류번호/일반명코드/일반명 포함)
+  substance_master_csv: "건강보험심사평가원_약가마스터_의약품주성분_20241014.csv"
