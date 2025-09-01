@@ -1,0 +1,3169 @@
+(유) 삼일엘러간
+(유) 한국비엠에스제약
+(유) 한풍제약
+(주) 다산메디켐
+(주) LG생명과학
+(주) 가주메디코
+(주) 경보제약
+(주) 그린제약
+(주) 글락소스미스클라인
+(주) 글락소스미스클라인컨슈머헬스케어코리아
+(주) 글로벌데이몬파마
+(주) 기산약품
+(주) 나노팜
+(주) 네오팜
+(주) 넥스팜코리아
+(주) 녹십자
+(주) 녹십자엠에스
+(주) 녹십자웰빙
+(주) 뉴젠팜
+(주) 다림바이오텍
+(주) 다산메디켐
+(주) 다산제약
+(주) 다솔생명과학
+(주) 대웅
+(주) 대웅제약
+(주) 대원제약
+(주) 더유제약
+(주) 도체오
+(주) 동구바이오제약
+(주) 동구제약
+(주) 동방제약
+(주) 동인제약
+(주) 동호팜
+(주) 동화개발
+(주) 듀켐바이오
+(주) 드림파마
+(주) 디에이치피코리아
+(주) 라이트팜텍
+(주) 레고켐제약
+(주) 레코르다티코리아
+(주) 레코켐제약
+(주) 마더스제약
+(주) 메디카코리아
+(주) 메디톡스
+(주) 메디팁
+(주) 메디파마플랜
+(주) 메디포럼제약
+(주) 메로사팜
+(주) 명지약품
+(주) 무진홀딩스
+(주) 바슈헬스코리아
+(주) 바스칸바이오제약
+(주) 바이넥스
+(주) 바이오솔루션
+(주) 바이오크리니칼시스템
+(주) 바이오포커스
+(주) 바인스파마코리아
+(주) 박스터
+(주) 베키오바이오젠
+(주) 보령
+(주) 보령바이오파마
+(주) 부경에스엠
+(주) 비보존제약
+(주) 비씨월드제약
+(주) 비씨월드헬스케어
+(주) 비티오제약
+(주) 사노피-아벤티스 코리아
+(주) 사노피-아벤티스코리아
+(주) 사이넥스
+(주) 삼양바이오팜
+(주) 삼양사
+(주) 삼양제넥스
+(주) 삼양제넥스바이오
+(주) 삼양홀딩스
+(주) 삼영메디케어
+(주) 삼영유니텍
+(주) 삼오제약
+(주) 새한제약
+(주) 서울메디칼
+(주) 서울제약
+(주) 서흥
+(주) 서흥캅셀
+(주) 성운약품
+(주) 세림파메드
+(주) 셀릭스
+(주) 셀비온
+(주) 셀트리온
+(주) 셀트리온제약
+(주) 스카이뉴팜
+(주) 시어스제약
+(주) 신광신약
+(주) 신흥
+(주) 씨엘팜
+(주) 씨엠지제약
+(주) 씨코헬스케어
+(주) 씨트리
+(주) 씨티씨바이오
+(주) 아리제약
+(주) 아림양행
+(주) 아이월드제약
+(주) 안트로젠
+(주) 알피바이오
+(주) 알피코프
+(주) 약진이메딕스
+(주) 에스비디
+(주) 에스앤피제약
+(주) 에스에이약품
+(주) 에스트라
+(주) 에이스파마
+(주) 에이치브이엘에스
+(주) 에이치오팜
+(주) 에이치피앤씨
+(주) 에이팜코리아
+(주) 에이프로젠바이오로직스
+(주) 에프엔지리서치
+(주) 엑세스파마
+(주) 엔바이로코리아
+(주) 엔에스팜
+(주) 엔엠제약
+(주) 엔터팜
+(주) 엘앤씨바이오
+(주) 엘지생명과학
+(주) 엘지화학
+(주) 엠비엘
+(주) 엠지
+(주) 오스코리아제약
+(주) 옥서스
+(주) 옥시레킷벤키저
+(주) 옵투스제약
+(주) 와이즈메디
+(주) 우전메디칼
+(주) 위드헬스케어
+(주) 유나이티드인터팜
+(주) 유앤생명과학
+(주) 유영제약
+(주) 유유제약
+(주) 유케이케미팜
+(주) 유한메디카
+(주) 유한양행
+(주) 유화메디칼
+(주) 이든파마
+(주) 이수앱지스
+(주) 이텍스제약
+(주) 인터벤션메디칼
+(주) 인트로바이오파마
+(주) 일화
+(주) 제뉴파마
+(주) 제니스팜
+(주) 제이알피
+(주) 제일제약
+(주) 젠자임코리아
+(주) 종근당
+(주) 중외
+(주) 중외신약
+(주) 중외제약
+(주) 중헌제약
+(주) 지-리페
+(주) 지종
+(주) 차메디텍
+(주) 차바이오텍
+(주) 카이바이오텍
+(주) 케이엔씨코리아
+(주) 켐파로스
+(주) 코아팜바이오
+(주) 큐앤큐팜
+(주) 큐어시스
+(주) 킴스제약
+(주) 킵스바이오파마
+(주) 태준제약
+(주) 태평양제약
+(주) 테라젠이텍스
+(주) 텍시빌
+(주) 텍시빌종로지점
+(주) 텔콘알에프제약
+(주) 텔콘제약
+(주) 티디에스팜
+(주) 파마리서치프로덕트
+(주) 파마킹
+(주) 파마택코리아
+(주) 팜젠사이언스
+(주) 팬젠
+(주) 퍼슨
+(주) 펜믹스
+(주) 퓨쳐켐
+(주) 퓨쳐켐헬스케어
+(주) 프레제니우스메디칼케어코리아
+(주) 피케이원팜
+(주) 하원제약
+(주) 한국 파마
+(주) 한국글로벌제약
+(주) 한국디비팜
+(주) 한국로슈
+(주) 한국백신
+(주) 한국비엔씨
+(주) 한국비엠아이
+(주) 한국비엠에스제약
+(주) 한국신약
+(주) 한국아벡스제약
+(주) 한국알리코팜
+(주) 한국얀센
+(주) 한국유니팜
+(주) 한국입센
+(주) 한국코러스제약
+(주) 한국파마
+(주) 한국파비스바이오텍
+(주) 한국파비스제약
+(주) 한국팜비오
+(주) 한국페링제약
+(주) 한국피엠지제약
+(주) 한국호넥스
+(주) 한독
+(주) 한독약품
+(주) 한독테바
+(주) 한독휴먼헬스
+(주) 핸슨바이오텍
+(주) 헤파가드
+(주) 호일바이오메드
+(주) 화이트생명과학
+(주) 화이트제약
+(주) 휴니즈
+(주) 휴메딕스
+(주) 휴비스트제약
+(주) 휴온스
+(주) 휴온스메디케어
+(주) 휴온스메디텍
+(주) 휴온스바이오파마
+(주) 휴온스생명과학
+(주) 히아랜코
+1-(4-methylphenyl)-ethyl-nicotinic acid
+2-deoxy-2-fluoro-D-glucose (18F) injection
+2-ketoglutaric acid monopotassium salt
+3,3-diphosphono-1,2-propanedicarboxylate tetrasodium
+3-iodobenzylguanidine
+4:1 w/w mixed hydrogel of sodium hyaluronate gel crosslinked by divinyl sulfone and sodium hyaluronate
+5-fluorouracil
+5-hydroxytriptophan
+6β-iodomethyl-19-norcholest-5(10)-en-3β-ol
+Acyclovir
+Aflibercept
+Alitretinoin
+Allogeneic Skin-derived Keratinocyte
+Atosiban
+BCG strain tice
+BDDE bridged sodium hyaluronate gel
+B형간염 바이러스 표면 항체의 검출
+B형간염 바이러스 표면항원 진단의 확인 검사
+B형간염바이러스표면항원검사
+B형간염바이러스표면항체검사
+C. sinensis Ag
+CA-125의 정량 검사
+CA-15-3의 정량 검사
+CA-19-9의 정량 검사
+Cabergoline
+Ceritinib
+C형간염 바이러스 항체 진단
+C형간염바이러스항체검사
+D-sorbitol
+DL-methionine
+DL-methylephedrine hydrochloride
+Delamanid
+Dexamethasone Cipecilate Micronized
+E.coli strain Nissle 1917의 동결건조물
+FPSA정량검사
+Felodipine
+Gadoversetamide
+Galsulfase
+Human plasma fraction with a factor XIII 250I.U
+Ibrutinib
+Idursulfase beta
+Idursulfase
+IgM enriched human immunoglobulin
+Imidafenacin
+Imiquimod
+Insulin aspart
+Insulin degludec
+Insulin detemir
+L-asparaginase
+L-asparaginase
+L-carbocysteine
+L-carnitine
+L-histidine
+L-ornithine-L-aspartate
+Lacosamide
+Levo-cabastine
+Levocetirizine HCl
+Magnesium Sulfate anhydrous
+Mebrofenin
+Metformin Hydrochloride
+Micronized Riociguat
+Mitiglinide Calcium hydrate
+N(2)-L-alanyl-L-glutamine
+N,S-methyldiacetylcysteine
+N-acetylaspartyl glutamate sodium
+N-acetylaspartyl glutaminate
+N-isopropyl-4-iodoamphetamine(123I) hydrochloride
+Nitisinone
+Nitrous oxide
+Obinutuzumab
+Oxycodone Hydrochloride Hydrate
+PSA정량검사
+Palonosetron HCl
+Pelargonium sidoides ext.
+Pomalidomide
+Pregabalin
+Procaterol HCl
+Procaterol hydrochloride
+Purified Tuberculin
+R-thioctic acid tromethamine
+Rabies human immunoglobulin
+Rituximab
+S-adenosyl-L-methionine sulfate-p-toluene sulfonate
+S-amlodipine besylate
+S-amlodipine gentisate
+S-amlodipine nicotinate
+S-atenolol
+S-carvedilol
+S-pantoprazole sodium trihydrate
+Saccharomyces boulardii
+Sodium Chloride
+Sodium Iodide
+St. John's Wort ethanol ext.
+St. John's Wort methanol ext.
+Ustekinumab
+abacavir sulfate
+abatacept
+abciximab
+abemaciclib
+abiraterone acetate
+abrocitinib
+absorbable collagen hemostat
+acamprosate
+acarbose
+acebrophylline
+aceclofenac
+acemetacin
+acepifylline
+acetaminophen
+acetaminophen encapsulated
+acetaminophen
+acetazolamide
+acetazolamide sodium
+acetic acid
+acetic acid glacial
+acetyl L-carnitine hydrochloride
+acetylcholine chloride
+acetylcysteine
+acetylkitasamycin
+acetylspiramycin
+acipimox
+acitazanolast hydrate
+acitretin
+aclatonium napadisilate
+aclidinium bromide
+aconitum tinc-D2
+acrinol
+activated charcoal
+actovegin concentrate
+acyclovir
+acyclovir
+adalimumab
+adefovir dipivoxil
+adenine
+adenine hydrochloride
+adenosine
+adenosine triphosphate
+adrenochrome monoaminoguanidine methanesulfonate
+aesalus hippocastanum L. leaves ext.
+aescin
+aesculus hippocastanum L. seeds ext.
+afatinib dimaleate
+aflibercept
+afloqualone
+agalsidase alfa
+agalsidase α
+agalsidase β
+agomelatine
+alacepril
+alanine
+albendazol
+albiglutide
+albutrepenonacog alfa
+alcaftadine
+alclometasone dipropionate
+aldesleukin
+alectinib hydrochloride
+alemtuzumab
+alfacalcidol
+alfentanil HCl
+alfentanil hydrochloride
+alfuzosin hydrochloride
+alglucosidase α
+alibendol
+alirocumab
+alkyl-diamino-ethyl glycin hydrochloride
+alkyldiaminoethylglycin hydrochloride solution
+alkyldiaminoethylglycine
+alkyldiaminoethylglycine hydrochloride
+allergen ext. 1종
+allergen extracts
+allergen extracts
+allopurinol
+allylestrenol
+almagate
+alminoprofen
+almitrine bismesilate
+almotriptan maleate
+aloe ext.
+alogliptin benzoate
+alprazolam
+alprostadil
+alprostadil α-cyclodextrin
+altretamine
+aluminum glycyrrhizinate
+aluminum hydroxide gel
+aluminum magnesium metasilicate
+aluminum phosphate
+aluminum phosphate
+alverine citrate
+amantadine hydrochloride
+amantadine sulfate
+ambrisentan
+ambroxol HCl
+ambroxol hydrochloride
+amcinonide
+amezinium methylsulfate
+amfenac sodium
+amidotrizoate
+amikacin
+amikacin sulfate
+amiloride hydrochloride
+amino acids
+aminoacetic acid
+aminoacetic acid
+aminoacetic aicd
+aminophylline
+aminophylline hydrate
+amiodarone HCl
+amiodarone hydrochloride
+amisulpride
+amitriptyline hydrochloride
+amlodipine adipate
+amlodipine besylate
+amlodipine camsylate
+amlodipine maleate
+amlodipine mesylate monohydrate
+amlodipine nicotinate
+amlodipine oratate
+amlodipine orotate
+ammonium chloride
+ammonium glycyrrhizinate
+ammonium lactate
+amorolfine
+amorolfine hydrochloride
+amosulalol hydrochloride
+amoxapine
+amoxicillin
+amoxicillin sodium
+amphotericin B
+amphotericin B
+amphotericin B
+amphotericin B
+ampicillin
+ampicillin sodium
+amrinone
+amsacrine
+amyl nitrate
+amylolisin
+anagliptin
+anagrelide hydrochloride
+anakinra
+anastrozole
+anhydrous citric acid
+anhydrous liquid lanolin
+anidulafungin
+anthralin
+anti-inhibitor coagulant complex
+antilymphocyte immunoglobuline
+antivenin agkistrodon halys
+apalutamide
+apixaban
+apraclonidine hydrochloride
+apraclonidine
+apremilast
+aprepitant
+aprotinin
+arbekacin sulfate
+argatroban
+arginine esterase
+arginine thiazolidine carboxylate
+aripiprazole
+armodafinil
+arotinolol hydrochloride
+arsenic trioxide
+artemisiae argyi folium ethanol ext.
+artemisiae argyi folium isopropanol ext.
+artemisiae argyi folium isopropanol soft ext.
+artesunate
+articaine hydrochloride
+asciminib hydrochloride
+ascorbic acid
+ascorbic acid
+asfotase α
+aspergillus culture
+aspergillus ext.
+aspirin
+aspirin lysine
+aspirin
+astromycin sulfate
+asunaprevir
+atazanavir sulfate
+atenolol
+atezolizumab
+atomoxetine hydrochloride
+atorvastatin calcium
+atorvastatin strontium pentahydrate
+atovaquone
+atracurium besylate
+atropine sulfate
+atso
+attapulgite
+auranofin
+autologus adipose-derived mesenchymal stem cell
+autologus chondrocyte
+avalglucosidase alfa
+avelumab
+avibactam sodium
+avocado soya unsaponifiables
+axitinib
+azacitidine
+azapentacene polysulfonate sodium
+azasetron HCl
+azathioprine
+azelastine HCl
+azelastine hydrochloride
+azelnidipine
+azilsartan medoxomil potassium
+azithromycin
+azithromycin dihydrate
+azithromycin hydrate
+azithromycin monohydrate
+azosemide
+aztreonam
+azulene soluble
+bacampicillin hydrochloride
+bacillus licheniformis
+bacillus polyfermenticus NSP
+bacillus subtilis·streptococcus faecium
+bacillus subtilis·streptococcus faecium
+bacillus subtilis·streptococcus faecium
+baclofen
+bacteria culture of Lactobacillus rhamnosus R0011 and Lactobacillus helveticus R0052
+balofloxacin
+balsalazide disodium dihydrate
+bambuterol hydrochloride
+bamiphylline hydrochloride
+baricitinib
+barium sulfate
+barnidipine hydrochloride
+basiliximab
+bazedoxifene acetate
+becaplermin
+beclomethasone dipropionate
+bedaquiline fumarate
+belimumab
+belotecan
+bemiparin sodium
+benazepril hydrochloride
+bendamustine hydrochloride
+bendazac lysine dihydrate
+benexate betadex
+benidipine hydrochloride
+benoxinate HCl
+benoxinate hydrochloride
+benproperine phosphate
+benralizumab
+benserazide hydrochloride
+benzalkonium chloride
+benzathine penicillin G
+benzburomaron
+benzethonium. Cl
+benzocaine
+benzonatate
+benztropine mesylate
+benzydamine hydrochloride
+bepotastine besilate
+bepotastine calcium dihydrate
+bepotastine nicotinate
+bepotastine salicylate
+beraprost sodium
+beroctocog alfa
+beroctocog α
+besifloxacin HCl
+besifovir dipivoxil maleate
+betahistine hydrochloride
+betahistine mesilate
+betaine anhydrous
+betaine glucuronate
+betamethasone
+betamethasone dipropionate
+betamethasone sodium phosphate
+betamethasone valerate
+betamipron
+betaxolol HCl
+betaxolol hydrochloride
+bethanechol chloride
+betiatide
+bevacizumab
+bevantolol hydrochloride
+bezafibrate
+bicalutamide
+bicisate 2hydrochloride
+bicisate dihydrochloride
+bictegravir sodium
+bifonazole
+bilberry fruit dried ext.
+bimatoprost
+biodiasmin f 100
+biodiasmin-F 100
+biodiastase
+biodiastase 2000
+biodiastase-2000
+biodiastase-2000
+biodiastase-500
+biotin
+biotin 0.0386㎍
+biperiden hydrochloride
+biphenyl dimethyl dicarboxylate
+bisacodyl
+bismuth subsalicylate
+bisoprolol fumarate
+bleomycin hydrochloride
+blinatumomab
+blonanserin
+boehmite
+bortezomib
+bosentan hydrate
+bosutinib monohydrate
+brentuximab vedotin
+brigatinib
+brimonidine tartrate
+brinzolamide
+brolucizumab
+bromazepam
+bromelain
+bromellaine
+bromfenac sodium hydrate
+bromfenac sodium sesquihydrate
+bromhexine HCl
+bromhexine hydrochloride
+bromocryptine mesylate
+bromopride
+bromperidol
+brotizolam
+bucillamine
+budesonide
+buflomedil HCl
+buflomedil hydrochloride
+buflomedil pyridoxal phosphate
+bupivacaine HCl
+bupivacaine hydrochloride
+buprenorphine
+buprenorphine HCl
+buprenorphine hydrochloride
+bupropion hydrochloride
+burosumab
+buspirone hydrochloride
+busulfan
+butamirate citrate
+butenafine hydrochloride
+butorphanol tartrate
+cabazitaxel acetone solvate
+cabergoline
+cabotegravir sodium
+cabozantinib s-malate
+cadralazine
+caffeine and sodium benzoate
+caffeine anhydrous
+calcifediol
+calcipotriol
+calcitriol
+calcium acetate
+calcium ascorbate
+calcium bromide
+calcium carbonate
+calcium carbonate granule
+calcium carbonate p.p.t.
+calcium carbonate
+calcium chloirde
+calcium chloride
+calcium chloride 2H2O
+calcium chloride 2H2O
+calcium chloride dihydrate
+calcium chloride hydrate
+calcium chloride
+calcium citrate
+calcium citrate malate
+calcium folinate
+calcium formate
+calcium gluconate
+calcium p-aminosalicylate
+calcium polycarbophil
+calciumchloride2H2O
+camostat mesilate
+canakinumab
+candesartan cilexetil
+candida antigen
+cannabidiol
+capecitabine
+capsaicin
+captopril
+carbachol
+carbamazepine
+carbazochrome sodium sulfonate
+carbidopa hydrate
+carbidopa monohydrate
+carbimazole
+carbomere
+carbonyl iron
+carboplatin
+carboxymethyl cellulose sodium
+carboxymethylcysteine-s
+carduus marianus ext.
+carfilzomib
+carglumic acid
+carnitine
+caroverine HCl
+caroverine hydrochloride
+carteolol HCl
+carteolol hydrochloride
+carumonam sodium
+carvedilol
+caspofungin acetate
+cefaclor
+cefaclor hydrate
+cefadroxil
+cefadroxil hydrate
+cefamandole nafate
+cefatrizine propylene glycol
+cefazolin sodium
+cefbuperazone sodium
+cefcapene pivoxil hydrochloride hydrate
+cefcapenepivoxilHCl
+cefdinir
+cefditoren pivoxil
+cefepime hydrochloride hydrate
+cefepime hydrochloride hydrate·L-arginine
+cefetamet pivoxil HCl
+cefetamet pivoxil hydrochloride
+cefixime
+cefixime hydrate
+cefmenoxime HCl
+cefmenoxime hydrochloride
+cefmetazole sodium
+cefminox sodium
+cefodizime sodium
+cefonicid sodium
+cefoperazone sodium
+cefotaxime sodium
+cefotetan disodium
+cefotiam hexetyl HCl
+cefotiam hydrochloride
+cefoxitin sodium
+cefpiramide sodium
+cefpirome sulfate
+cefpodoxime proxetil
+cefprozil
+cefprozil hydrate
+cefradine
+cefradine hydrate
+cefroxadine
+cefsulodin sodium
+ceftazidime hydrate
+cefteram pivoxil
+ceftezole sodium
+ceftibuten
+ceftizoxime sodium
+ceftolozane sulfate
+ceftriaxone sodium hydrate
+cefuroxime axetil
+cefuroxime sodium
+celecoxib
+celiprolol hydrochloride
+cellulase
+centella asiatica ext.
+cephalexin
+cephalothin sodium
+cephapirin sodium
+cephazedone sodium
+cephradine
+cerebrolysin concentrate
+certolizumab pegol
+cetirizine dihydrochloride
+cetraxate hydrochloride
+cetrimide
+cetrorelix acetate
+cetuximab
+chitosan
+chloral hydrate
+chlorambucil
+chloramphenicol
+chloramphenicol sodium succinate
+chlordiazepoxide
+chlordiazepoxide hydrochloride
+chlorhexidine gluconate
+chlorhexidine gluconate solution
+chlormadinone acetate
+chloroquine phosphate
+chloroxylenol
+chlorphenesin carbamate
+chlorpheniramine maleate
+chlorpromazine HCl
+chlorpromazine hydrochloride
+chlorprothixene
+chlorquinaldol
+chlorthalidone
+cholecalciferol
+cholecalciferol concentrated granule
+cholecalciferol concentrated powder
+cholestyramine resin
+choline alfoscerate
+choline fenofibrate
+chondroitin sodium sulfate
+chondroitin sulfate-iron complex
+chromic chloride
+chromium (51Cr) Edetate
+chymotrypsinogene
+ciclacillin
+ciclesonide
+cicletanine hydrochloride
+ciclopirox
+ciclopirox olamine
+cilastatin sodium
+cilazapril
+cilnidipine
+cilostazol
+cimetidine
+cimetropium bromide
+cimicifugae ethanol ext.
+cinacalcet hydrochloride
+cinepazide maleate
+cinnoxicam
+ciprofibrate
+ciprofloxacin
+ciprofloxacin HCl
+ciprofloxacin hydrochloride
+cisatracurium besylate
+cisatracurium besylatel
+cisplatin
+citalopram hydrobromide
+citicoline
+citicoline sodium
+citric acid
+cladribine
+clarithromycin
+clavulanate potassium
+clebopride malate
+clemastine fumarate
+clenbuterol hydrochloride
+clevudine
+clindamycin hydrochloride
+clindamycin phosphate
+clobazam
+clobetasol propionate
+clobetasone butyrate
+cloconazole HCl
+clodronate disodium
+clofarabine
+clomiphene citrate
+clomipramine hydrochloride
+clonazepam
+clonidine hydrochloride
+clonixin lysinate
+cloperastine fendizoate
+clopidogrel besylate
+clopidogrel bisulfate
+clopidogrel camsylate
+clopidogrel napadisilate monohydrate
+clopidogrel resinate
+clorazepate dipotassium
+clostridium botulinum toxin type A
+clostridium botulinum toxin type A haemagglutinin complex
+clostridium butyricum miyairi Ⅱ 588
+clotiazepam
+clotrimazole
+clozapine
+cobamamide
+cobicistat silicon dioxide
+codeine phosphate
+colchicine
+colistin Na methanesulfonate
+colistin sodium methanesulfonate
+concentrated glycerin
+coptis rhizome butanol dried ext.
+coptis rhizome dried ext.
+corticorelin trifluoroacetate
+corydalis tuber·pharbitis seed(5:1) ethanol ext.
+coumarin
+crizotinib
+crotamiton
+cyanocobalamin
+cyclobenzaprine hydrochloride
+cyclofenil
+cyclopentolate HCl
+cyclopentolate hydrochloride
+cyclophosphamide
+cycloserine
+cyclosporin
+cyclosporine
+cyproterone acetate
+cystine
+cytarabine
+cytochrome C
+d-biotin
+d-mannitol
+d-penicillamine
+dabigatran etexilate mesylate
+dabrafenib mesylate
+dacarbazine
+daclatasvir hydrochloride
+daclizumab
+dacomitinib hydrate
+dactinomycin
+dalfopristin
+dalteparin sodium
+damoctocog alfa pegol 1KI.U
+damoctocog alfa pegol 2KI.U
+damoctocog alfa pegol 3KI.U
+damoctocog alfa pegol 500I.U
+danazol
+dantrolene sodium
+dapagliflozin
+dapagliflozin Anhydrous Lactose Mixture
+dapagliflozin Bis L-proline
+dapagliflozin anhydrous lactose mixture
+dapagliflozin citric acid
+dapagliflozin formate
+dapagliflozin propanediol hydrate
+dapsone
+daptomycin
+daratumumab
+darbepoetin alpha
+darbepoetin α
+darunavir ethanolate
+dasabuvir
+dasatinib
+daunorubicin hydrochloride
+decitabine
+deferasirox
+deferiprone
+deferoxamine mesylate
+defibrotide
+deflazacort
+degarelix
+dehydrocholic acid
+delapril HCl
+denopamine
+denosumab
+desflurane
+desloratadine
+desmopressin acetate
+desonide
+desoxymethasone
+desvenlafaxine
+desvenlafaxine benzoate
+desvenlafaxine succinate monohydrate
+deucravacitinib
+dexaltin NK
+dexamethasone
+dexamethasone disodium phosphate
+dexamethasone palmitate
+dexamethasone propionate
+dexamethasone sodium phosphate
+dexibuprofen
+dexketoprofen trometamol
+dexlansoprazole
+dexpanthenol
+dexrazoxane
+dextran-40
+dextromethorphan Hbr
+dextromethorphan hydrobromide
+dextromethorphan hyrobromide
+dextrose
+diacerhein
+diazepam
+diazoxide
+dibasic sodium phosphate
+diclofenac diethylammonium
+diclofenac epolamine
+diclofenac potassium
+diclofenac sodium
+diclofenac-β-dimethyl-aminoethanol
+dicyclomine hydrochloride
+didanosine
+dienogest
+diethylamine chromocarb
+diethylamine ethyl theophylline
+diethylstilbestrol
+difemerine HCl
+difenidol hydrochloride
+diflorasone diacetate
+diflucortolone valerate
+diflupredinate
+digoxin
+dihydrocodeine tartrate
+dihydroergocriptine mesylate
+dihydroergocristine mesylate
+dihydroergocryptine mesylate
+dihydroxyaluminum allantoinate
+dihydroxydibutylether
+dilazep 2HCl
+diltiazem HCl
+diltiazem hydrochloride
+diluted nitroglycerin
+diluted nitroglycerin diluted solution
+diluted nitroglycerin solution
+dimenhydrinate
+dimercaptosuccinic acid
+dimethicone
+dimethyl fumarate
+dimethylpolysiloxane
+dinoprostone
+dinutuximab beta
+dioctahedral smectite
+diomagnite
+diosmin
+diphenylhydantoin sodium
+diphenylpyraline hydrochloride
+diprophyllin
+dipyridamole
+diquafosol sodium
+disodium etidronate
+divalproex sodium
+divalproex sodium particle
+dizet A.P.
+dobesilate calcium
+dobutamine hydrochloride
+docetaxel
+dolasetron mesilate
+dolutegravir sodium
+domperidone
+domperidone maleate
+donepezil
+donepezil hydrochloride
+dopamine HCl
+dopamine hydrochloride
+doravirine
+doripenem monohydrate
+dorzolamide HCl
+dorzolamide hydrochloride
+dostarlimab
+dothiepin HCl
+doxapram HCl monohydrate
+doxapram hydrochloride monohydrate
+doxazosin mesylate
+doxepin hydrochloride
+doxepine HCl
+doxifluridine
+doxofylline
+doxorubicin HCl
+doxorubicin hydrochloride
+doxorubicin hydrochloride
+doxycycline hyclate hydrate
+doxycycline hydrate
+doxylamine succinate
+dried coptidis rhizoma ext.
+dried ivy leaf ext.
+dried ivy leaf ext.
+dried ox bile
+dronedarone
+drospirenone
+dulaglutide
+duloxetine hydrochloride
+dupilumab
+durvalumab
+dutasteride
+dydrogesterone
+ebastine
+eburnamonine
+ecabet sodium
+econazole nitrate
+econazole sulfosalicylate
+eculizumab
+edetate calcium disodium
+edoxaban tosylate hydrate
+efavirenz
+eflapegrastim
+efonidipine
+egualen sodium
+elbasvir
+elcatonin
+eliglustat tartrate
+elosulfase α
+eltrombopag olamine
+emedastine fumarate
+emicizumab
+emorfazone
+empagliflozin
+emtricitabine
+enalapril maleate
+enavogliflozin
+encorafenib
+enflurane
+enfuvirtide
+enocitabine
+enoxacin
+enoxaparin sodium
+entacapone
+entecavir
+enterococcus faecium strain cernelle 68
+entrectinib
+enzalutamide
+eperisone hydrochloride
+ephedrine HCl
+ephedrine hydrochloride
+epinastine HCl
+epinastine hydrochloride
+epinephrine
+epinephrine HCl
+epinephrine bitartrate
+epinephrine hydrochloride
+epirubicin HCl
+epirubicin hydrochloride
+eprosartan mesylate
+eptacog alfa
+eptacog α
+erdosteine
+eribulin mesylate
+erlotinib hydrochloride
+ertapenem sodium
+ertugliflozin L-pyroglutamic acid
+erythromycin
+erythromycin estolate
+erythromycin lactobionate
+erythromycin propionate
+erythromycin stinoprate
+erythropoietin
+erythropoietin-β
+escitalopram
+escitalopram oxalate
+eslicarbazepine acetate
+esmolol HCl
+esmolol hydrochloride
+esomeprazole
+esomeprazole magnesium
+esomeprazole sodium
+esomeprazole strontium tetrahydrate
+estradiol
+estradiol hemihydrate
+estradiol valerate
+estramustine sodium phosphate
+estriol
+estrogen
+estropipate
+eszopiclone
+etanercept
+ethambutol hydrochloride
+ethanol
+ethanolaminoleate
+ethosuximide
+ethyl esters of the iodised fatty acids of poppyseed oil
+ethyl loflazepate
+ethylene oxide
+etizolam
+etodolac
+etofibrate
+etofylline nicotinate
+etomidate
+etoposide
+etoricoxib
+etravirine
+everolimus
+evocalcet
+evogliptin tartrate
+evolocumab
+exametazime
+exemestane
+exenatide
+ezetimibe
+famciclovir
+famotidine
+faricimab
+febuprol
+febuxostat
+fedratinib dihydrochloride monohydrate
+felbinac
+felodipine
+fenofibrate
+fenofibrate granule
+fenofibrate pellet
+fenofibric acid
+fenoprofen calcium
+fenoterol Hbr
+fenoterol hydrobromide
+fenoverine
+fenspiride HCl
+fentanyl
+fentanyl citrate
+ferric chloride
+ferric citrate hydrate
+ferric hydroxide carboxymaltose complex
+ferric hydroxide poly maltose-complex
+ferric hydroxide polymaltose complex
+ferritinic iron
+ferrous sulfate dried
+ferucarbotran
+ferum oxide
+ferumoxide
+fesoterodine fumarate
+fexofenadine hydrochloride
+fexuprazan hydrochloride
+fibrinogen
+filgotinib maleate
+filgrastim
+fimasartan potassium trihydrate
+finasteride
+finerenone
+fingolimod hydrochloride
+flavin adenine dinucleotide
+flavoxate hydrochloride
+flecainide
+flecainide acetate
+fleroxacin
+flomoxef sodium
+flubendazol
+fluconazole
+fludarabine phosphate
+fludrocortisone acetate
+flufenamic acid
+flumazenil
+flunarizine hydrochloride
+flunitrazepam
+fluocinolone acetonide
+fluocinonide
+fluorescein sodium
+fluorescein
+fluorodopa
+fluorometholone
+fluorometholone acetate
+fluorouracil-5
+fluoxetine HCl
+fluoxetine hydrochloride
+flurazepam hydrochloride
+flurbiprofen
+flurbiprofen sodium
+flutamide
+fluticasone furoate
+fluticasone propionate
+flutrimazol
+fluvastatin
+fluvoxamine maleate
+folic acid
+follitropin
+follitropin delta
+follitropin-α
+follitropin-β
+fondaparinux sodium
+formoterol fumarate
+formoterol fumarate dihydrate
+formoterol fumarate hydrate
+fosaprepitant dimeglumine
+fosfomycin sodium
+fosfomycin trometamol
+fosinopril sodium
+fosphenytoin sodium
+fraction flavonoid purifiee micronise
+free-dried rabies vaccine produced on VERO cell line, inactivated and purified
+freeze-dried concentrated human antithrombin III
+fremanezumab
+frovatriptan succinate monohydrate
+fructose
+fulvestrant
+furosemide
+fusidic acid
+gabapentin
+gabexate mesilate
+gadobenate dimeglumine
+gadobenate dimeglumine
+gadobutrol
+gadodiamide
+gadopentetate dimeglumine
+gadoteridol
+gadoversetamide
+gadoxetic acid disodium
+galactosidase
+galantamine hydrobromide
+galcanezumab
+gallamine triethiodide
+gallium citrate
+galsulfase
+ganciclovir
+ganirelix acetate
+gatifloxacin
+gatifloxacin hydrate
+gefitinib
+gelatin sponge
+gemcitabine HCl
+gemcitabine hydrochloride
+gemfibrozil
+gemifloxacin mesylate
+gemigliptin tartrate sesquihydrate
+gentamicin sulfate
+gentamycin sulfate
+gilteritinib fumarate
+gimeracil
+ginkgo biloba ext.
+ginkgo biloba leaf ext.
+glatiramer acetate
+glecaprevir
+glibenclamide
+gliclazide
+glimepiride
+glipizide
+gliquidone
+glucagon
+glucamethacin
+glucosamine sulfate
+glucose
+glucose monohydrate
+glutaraldehyde
+glutathione
+glycerin
+glycophosphopeptical
+glycopyrrolate
+glycopyrronium bromide
+glycyl-L-glutamin
+golimumab
+gonadorelin
+gonadorelin acetate
+goserelin acetate
+granisetron
+granisetron
+granisetron hydrochloride
+griseofulvin
+guaifenesin
+guselkumab
+halcinonide
+haloperidol
+haloperidol decanoate
+harpagophyti ext.
+hemin
+hemocoagulase
+heparin sodium
+heptaplatin
+hexoprenaline sulfate
+homartropin Hbr
+homartropin hydrobromide
+human anti-hepatitis B immunoglobulin
+human anti-hepatitis B immunoglobulin
+human blood coagulation factor VIII
+human blood coagulation factor VIII
+human blood coagulation factor Ⅸ complex
+human chorionic gonadotrophin
+human clottable protein
+human coagulation factor X
+human cytomegalovirus immunoglobulin G
+human fibrinogen
+human fibrinogen
+human folicle stimulating hormone
+human immunoglobulin G
+human immunoglobulin G
+human immunoglobulin
+human immunoglobulin, IgM enriched
+human immunoglobulin-G
+human insulin
+human insulin
+human insulin
+human serum albumin
+human tetanus immunoglobulin
+human varicella zoster immunoglobulin
+hydralazine HCl
+hydralazine hydrochloride
+hydrochlorothiazide
+hydrocortisone
+hydrocortisone acetate
+hydrocortisone butyrate
+hydrocortisone sodium succinate
+hydrocortisone valerate
+hydromorphone HCl
+hydromorphone hydrochloride
+hydrotalcite
+hydroxocobalamin
+hydroxychloroquine sulfate
+hydroxyethyl starch
+hydroxyprogesterone caproate
+hydroxyurea
+hydroxyzine HCl
+hydroxyzine hydrochloride
+hyoscine butylbromide
+hypromellose
+ibandronate sodium monohydrate
+ibandronic acid monosodium salt monohydrate
+ibudilast
+ibuprofen
+ibuprofen encapsulated
+ibuproxam
+icatibant acetate
+idarubicin hydrochloride
+idarucizumab
+idoxuridine
+idursulfase β
+idursulfase
+ifenprodil tartrate
+ifosfamide
+ilaprazole
+iloprost
+imatinib mesylate
+imidafenacin
+imidapril hydrochloride
+imidazole salicylate
+imiglucerase
+imipramine hydrochloride
+immunoglobulin G, human cytomegalovirus
+immunoglobulin anti-D
+immunoglobulin human varicella zoster
+immunoglobuline anti lymphocyte
+indacaterol acetate
+indacaterol maleate
+indapamide
+indigocarmine
+indinavir sulfate
+indium chloride
+indobufen
+indocyanine green
+indomethacin
+indomethacin sodium
+infliximab
+inosiplex
+inotuzumab ozogamicin
+insulin aspart
+insulin aspart
+insulin degludec
+insulin detemir
+insulin glargine
+insulin glulisine
+insulin lispro
+insulin lispro
+interferon α
+interferon α-2a
+interferon α-2b
+interferon β-1a
+interferon β-1b
+interferon γ
+iobitridol
+iodine
+iodixanol
+iohexol
+iomeprol
+iopamidol
+iopromide
+iotrolan
+ioversol
+ioxaglic acid
+ioxitalamic acid
+ipilimumab
+ipragliflozin L-proline
+ipratropium bromide
+ipratropium bromide monohydrate
+ipriflavone
+irbesartan
+irinotecan HCl
+irinotecan hydrochloride
+iron acetyl transferrin
+iron acetyl-transferrin hydroglycerin solution
+iron dextran
+iron hydoxide sucrose complex
+iron hydoxide sucrose complex
+iron proteinsuccinylate
+irsogladine maleate
+isepamicin sulfate
+isoconazole nitrate
+isoflurane
+isoniazid
+isopropamide iodide
+isopropyl unoprostone
+isoproterenol HCl
+isoproterenol hydrochloride
+isosorbide dinitrate
+isosorbide mononitrate
+isotretinoin
+isradipine
+itopride hydrochloride
+itraconazole
+ivabradine hydrochloride
+ivy leaf ethanol dried ext.
+ivy leaf ethanol dried ext.
+ivy leaf ethanol ext.
+ivy leaf ethanol fluid ext.
+ixazomib citrate
+ixekizumab
+josamycin
+kallidinogenase
+kanamycin sulfate
+ketamine HCl
+ketamine hydrochloride
+ketoconazole
+ketoprofen
+ketoprofen
+ketoprofen lysinate
+ketorolac tromethamine
+ketotifen fumarate
+kitasamycin
+labetalol HCl
+labetalol hydrochloride
+lacidipine
+lactitol monohydrate
+lactobacillus acidophillus
+lactobacillus acidophillus tyndalized
+lactobacillus casei var. rhamnosus
+lactulose concentrated solution
+lactulose cone.
+lafutidine
+lamivudine
+lamotrigine
+lanoconazol
+lanreotide acetate
+lansoprazole
+lansoprazole granule
+lanthanum carbonate
+lapatinib ditosylate
+laronidase
+laronidase
+laropiprant
+larotrectinib sulfate
+latanoprost
+latanoprostene bunod
+lazertinib mesylate
+lecithin iodide
+ledipasvir
+leflunomide
+lenalidomide
+lenograstim
+lenvatinib mesylate
+lepirudin
+lercanidipine hydrochloride
+letermovir
+letosteine
+letrozole
+leucocyanidin
+leucovorin calcium
+leucovorin sodium
+leuprolide acetate
+levamisole hydrochloride
+levetiracetam
+levobunolol HCl
+levobunolol hydrochloride
+levobupivacaine HCl
+levobupivacaine hydrochloride
+levocabastine hydrochloride
+levocetirizine dihydrochloride
+levocetirizine hydrochloride
+levocloperastine fendizoate
+levodropropizine
+levofloxacin
+levofloxacin hydrate
+levofolinate
+levoleucovorin calcium
+levoleucovorin sodium
+levomepromazine maleate
+levonorgestrel
+levosulpiride
+levothyroxine sodium
+lidamidine hydrochloride
+lidocaine
+lidocaine HCl
+lidocaine hydrochloride
+limaprost α-cyclodextrin
+linagliptin
+linagliptin besylate
+lincomycin hydrochloride
+lindane
+linezolid
+liothyronine sodium
+lipase 100
+lipegfilgrastim
+liposomal doxorubicin hydrochloride
+lisinopril
+lithium carbonate
+lixisenatide
+lobeglitazone sulfate
+lomefloxacin HCl
+lomefloxacin hydrochloride
+lonazolac calcium
+loperamide hydrochloride
+loperamide oxide
+lopinavir
+loracarbef
+loratadine
+lorazepam
+lorlatinib
+lornoxicam
+losartan potassium
+loteprednol etabonate
+lovastatin
+loxoprofen sodium hydrate
+lsopropanol
+lung surfactant
+lurasidone hydrochloride
+lutetium(u) oxodotreotide
+lutropin α
+lyophilized thymus
+lysozyme chloride
+macroaggregated human serum albumin
+mafenide acetate
+magnesium & calcium alumino silicate
+magnesium aluminum silicate
+magnesium chloride
+magnesium dimecrotate
+magnesium glycerophosphate
+magnesium hydroxide
+magnesium lactate
+magnesium oxide
+magnesium sulfate
+magnesium sulfate anhydrous
+magnesium trihydrate salt of chenodesoxycholic acid and ursodesoxycholic acid
+malotilate
+manidipine hydrochloride
+maribavir micronized
+mavacamten micronized
+mebeverine hydrochloride
+mecobalamin
+medium chain triglyceride
+medronic acid
+medroxyprogesterone acetate
+mefenamic acid
+mefloquine hydrochloride
+megestrol acetate
+meglumine gadoterate
+meglumine gadoterate
+melilotus ext.
+meloxicam
+melphalan
+memantine HCl
+memantine hydrochloride
+menatetrenone
+menotrophin
+menotrophin HP
+mepivacaine hydrochloride
+mepolizumab
+mequitazine
+mercaptopurine hydrate
+meropenem
+mertiatide
+mesalazine
+mesna
+mesoglycan sodium
+metadoxine
+metaiodobenzylguanidine
+metformin Hydrochloride
+metformin hydrochloride
+methazolamide
+methimazole
+methocarbamol
+methotrexate
+methoxsalen
+methoxy polyethylene glycol-epoetin β
+methyl-N,S-diacetylcysteine
+methylcelluose
+methylcysteine hydrochloride
+methylenediphosphonic acid
+methylenediphosphoric acid
+methylergometrine maleate
+methylergonovine maleate
+methylol cephalexin lysinate
+methylphenidate hydrochloride
+methylprednisolone
+methylprednisolone aceponate
+methylprednisolone acetate
+methylprednisolone sodium succinate
+metoclopramide
+metoclopramide HCl
+metoclopramide hydrochloride
+metoclopramide hydrochloride hydrate
+metolazone
+metoprolol succinate
+metoprolol tartrate
+metronidazole
+mexazolam
+mexiletine hydrochloride
+micafungin sodium
+mical
+miconazole
+microemulsion cyclosporine
+microfibrillar collagen hydrochloride
+micronized ciclesonide
+micronized macitentan
+micronized progesterone
+micronized tiotropium bromide monohydrate 22.5mcg/cap
+micronomicin sulfate
+midazolam
+midazolam maleate
+midecamycin acetate
+midodrine hydrochloride
+migalastat hydrochloride
+miglitol
+miglustat
+milk thistle fruit ext.
+milk thistle fruit ext. powder
+milnacipran hydrochloride
+milrinone
+minocycline hydrochloride
+minoxidil
+mirabegron
+mirtazapine
+misoprostol powder
+mitomycin C
+mitoxantrone hydrochloride
+mizolastine
+mizoribine
+moclobemide
+modafinil
+moexipril hydrochloride
+mogamulizumab
+molindone hydrochloride
+molsidomin
+mometasone furoate
+montelukast sodium
+morniflumate
+moroctocog α
+morphine HCl
+morphine hydrochloride
+morphine sulfate
+mosapride citrate
+mosapride citrate hydrate
+moxifloxacin
+moxifloxacin HCl
+moxifloxacin hydrochloride
+moxonidine
+mupirocin
+mupirocin calcium
+mycophenolate mofetil
+mycophenolate sodium
+myrtol
+n,s-methyldiacetylcysteine
+nabumetone
+nadolol
+nadroparin calcium
+nafamostat mesilate
+nafcillin sodium
+nafronyl oxalate
+naftazone
+naftifine hydrochloride
+naftopidil
+nalbuphine HCl
+nalbuphine hydrochloride
+naloxone HCl
+naloxone hydrochloride
+naltrexone hydrochloride
+nandrolone decanoate
+nanoliposomal irinotecan hydrochloride
+naproxen
+naproxen sodium
+naratriptan hydrochloride
+natalizumab
+natamycin
+nateglinide
+nebivolol
+nebivolol hydrochloride
+nedocromil sodium
+nelfinavir mesylate
+neltenexine monohydrate
+nemonapride
+neomycin sulfate
+neostigmine methylsulfate
+nepafenac
+netarsudil mesylate
+neticonazole HCl
+netilmicin sulfate
+nevirapine
+nicametate citrate
+nicardipine HCl
+nicardipine hydrochloride
+nicergoline
+nicorandil
+nicotinic acid
+nifedipine
+nifuroxazide
+nilotinib hydrochloride monohydrate
+nilvadipine
+nimesulide
+nimodipine
+nimustine HCl
+nintedanib esilate
+nipradilol
+niraparib tosylate
+niraparib tosylate monohydrate
+nirmatrelvir
+nisoldipine
+nitrendipine
+nitroglycerin
+nivolumab
+nizatidine
+norepinephrine bitartrate
+norethisterone
+norfloxacin
+nortryptiline hydrochloride
+nusinersen sodium
+nystatin
+ocrelizumab
+octreotide
+octreotide acetate
+octylonium bromide
+ofloxacin
+olanzapine
+olaparib
+olaratumab
+olmesartan cilexetil
+olmesartan medoxomil
+olmutinib hydrochloride
+olodaterol hydrochloride
+olopatadine HCl
+olopatadine hydrochloride
+omalizumab
+ombitasvir
+omega-3-acid ethyl esters90
+omeprazole
+omeprazole granule
+omeprazole sodium
+omidenepag isopropyl
+onasemnogene abeparvovec
+ondansetron hydrochloride dihydrate
+ondansetron hydrochloride hydrate
+opicapone
+oprelvekin
+ornidazole
+ornithine aspartate
+orphenadrine HCl
+orphenadrine citrate
+orphenadrine hydrochloride
+oseltamivir
+oseltamivir phosphate
+osimertinib mesylate
+ossopan substance
+ox bile ext.
+oxaliplatin
+oxapium iodide
+oxaprozin
+oxatomide
+oxcarbazepin
+oxcarbazepine
+oxethazaine
+oxiconazole nitrate
+oxidized regenerated cellulose
+oxidronate sodium
+oxiracetam
+oxolamine citrate
+oxtriphylline
+oxybutynin chloride
+oxycodone hydrochloride
+oxygen gas
+oxymetholone
+oxytetracycline HCl
+oxytetracycline hydrochloride
+oxytocin
+oyster shell powder
+ozagrel hydrochloride
+ozagrel sodium
+ozanimod hydrochloride
+p-aminomethyl benzoic acid
+paclitaxel
+paclitaxel
+palbociclib
+paliperidone
+paliperidone palmitate
+palivizumab
+palonosetron HCl
+palonosetron hydrochloride
+pamidronate disodium
+pancrease
+pancreatin
+pancreatin
+pancreatin 6배품
+pancrelipase
+pantethine
+pantoprazole hemimagnesium monohydrate
+pantoprazole sodium
+pantoprazole sodium sesquihydrate
+papaverine HCl
+papaverine hydrochloride
+paragonimus westermani Ag
+paricalcitol
+parnaparin sodium
+paroxetine HCl
+paroxetine hydrochloride
+pasireotide pomoate
+pazopanib hydrochloride
+pefloxacin methanesulfonate
+pegfilgrastim
+peginterferon α-2a
+peginterferon α-2a
+peginterferon α-2b
+peginterferon β-1a
+pegteograstim
+pegvisomant
+pelargonium sidoides ethanol ext.
+pelargonium sidoides ethanol ext.(1→8~10)ㆍglycerin mixed solution
+pelargonium sidoides ext.
+pelubiprofen
+pelubiprofen tromethamine
+pembrolizumab
+pemetrexed
+pemetrexed disodium
+pemetrexed disodium heptahydrate
+pemigatinib
+pemirolast potassium
+penciclovir
+penicillin G potassium crystal
+pentamidine isethionate
+pentastarch
+pentazocine
+pentazocine hydrochloride
+pentetate
+pentetic acid
+pentobarbital sodium
+pentosan polysulfate sodium
+pentoxifylline
+peptides from thymus
+perampanel
+perfluorobutane
+perindopril arginine
+perindopril tertbutylamine
+peroxyacetic acid
+perphenazine
+pertuzumab
+petasites hybridus co2 extracts
+pethidine HCl
+pethidine hydrochloride
+phellinus linteus mycelliun ext.
+phenazopyridine hydrochloride
+phenobarbital
+phenobarbital sodium
+phenoxybenzamine
+phentolamine mesylate
+phenylephrine HCl
+phenylephrine hydrochloride
+phenytoin sodium
+phloroglucinol
+pidotimod
+pilocarpine HCl
+pilocarpine hydrochloride
+pilsicainide hydrochloride
+pimecrolimus
+pimozide
+pinaverium bromide
+pinazepam
+pioglitazone hydrochloride
+piperacillin sodium
+pipoxolan HCl
+piprinhydrinate
+piracetam
+pirarubicin
+pirenoxine
+pirenoxine sodium
+pirenzepine hydrochloride
+pirfenidone
+piroxicam
+piroxicam potassium
+piroxicam β-cyclodextrin
+pitavastatin calcium
+pitolisant hydrochloride
+pivampicillin
+pivmecillinam HCl
+placenta hydrolysate
+plantago seed / plantago seed cortex
+plantago seed/plantago seed cortex
+plerixafor
+polaprezinc
+policresulen
+polmacoxib
+polyethylene glycol 3350
+polypeptide
+polysaccharide iron complex
+polysaccharide iron complex
+polysaccharide-K
+polysorbate 80
+polysorbate80
+polystyrene sulfonate calcium
+polyvinyl alcohol
+polyvinyl alcohol iodine
+ponatinib hydrochloride
+posaconazole
+potassium chloride
+potassium citrate
+potassium iodide
+potassium phosphate monobasic
+povidone
+povidone iodide
+povidone iodine
+pralidoxime chloride
+pramipexole dihydrochloride
+pramoxine hydrochloride
+pranlukast hydrate
+pranoprofen
+prasugrel hydrochloride
+pravastatin sodium
+praziquantel
+prazosin HCl
+prednicarbate
+prednisolone
+prednisolone acetate
+prednisolone sodium succinate
+prednisolone valeroacetate
+pregabalin
+pretomanid
+pridinol mesylate
+primaquine phosphate
+primidone
+procaine hydrochloride
+procaterol hydrochloride
+procyclidine hydrochloride
+proglumetacin maleate
+promestriene
+pronase
+pronase B
+propacetamol hydrochloride
+propafenone hydrochloride
+proparacaine HCl
+proparacaine hydrochloride
+propiverine hydrochloride
+propofol
+propranolol HCl
+propranolol hydrochloride
+propylthiouracil
+protamine sulfate
+protease
+protein C concentrate
+proteolytic peptide from porcine brain
+prothionamide
+protirelin
+protirelin tartrate
+prucalopride succinate
+pseudoephedrine hydrochloride
+psyllium husk
+pulvis aconiti tuberis purificatum
+purified olive oil & purified soybean oil
+purified olive oil and purified soybean oil
+purified water
+pygeum africanum
+pyrazinamide
+pyrazinobutazone
+pyridostigmine bromide
+pyridoxine hydrochloride
+pyrimethamine
+quetiapine fumarate
+quinapril hydrochloride
+quinidine sulfate
+quinupramine
+rabeprazole sodium
+rabies human immunoglobulin
+radotinib hydrochloride
+raloxifene hydrochloride
+raltegravir potassium
+ramipril
+ramosetron
+ramosetron hydrochloride
+ramucirumab
+ranibizumab
+ranitidine hydrochloride
+rasagiline mesylate
+rasagiline tartrate
+rasburicase
+ravulizumab
+rebamipide
+recombinant blood coagulation factor IX, nonacog α
+recombinant blood coagulation factor VIII
+recombinant blood coagulation factor VIII, rurioctocog α pegol
+recombinant blood coagulation factor VIII-Fc fusion protein, efmoroctocog α
+recombinant blood coagulation factor VIII-Single Chain, lonoctocog α
+recombinant blood coagulation factor Ⅷ
+recombinant blood coagulation factor Ⅸ
+recombinant blood coagulation factor Ⅸ, nonacog γ
+recombinant blood coagulation factor Ⅸ-Fc fusion protein, eftrenonacog α
+recombinant human epidermal growth factor
+recombinant human tissue-type plasminogen activator
+redistilled turpentine oil oxidation products
+regorafenib hydrate
+remdesivir
+remifentanil hydrochloride
+repaglinide
+reslizumab
+revaprazan
+reviparin sodium
+reviparin sodium
+reviparin sodium
+reviparin sodium
+ribavirin
+ribociclib succinate
+ribostamycin sulfate
+rifabutin
+rifampicin
+rifaximin
+rilpivirine hydrochloride
+riluzole
+rimexolone
+risankizumab
+risdiplam
+risedronate
+risedronate sodium
+risedronate sodium 2.5 hydrate
+risperidone
+risperidone extended release microspheres
+ritodrine HCl
+ritodrine hydrochloride
+ritonavir
+rituximab
+rivaroxaban
+rivastigmine
+rivastigmine tartrate
+rizatriptan benzoate
+rocuronium bromide
+roflumilast
+romiplostim
+romosozumab
+ropinirole hydrochloride
+ropivacaine HCl
+ropivacaine hydrochloride
+rosiglitazone maleate
+rosuvastatin calcium
+roxatidine acetate hydrochloride
+roxithromycin
+rufinamide
+rupatadine fumarate
+ruxolitinib phosphate
+s-adenosyl-l-methionine sulfate-p-toluene sulfonate
+s-amlodipine adipate
+s-amlodipine nicotinate
+saccharomyces boulardii
+saccharomyces cerevisiae hansen CBS-5926
+sacituzumab govitecan
+sacubitril/valsartan sodium hydrate
+safinamide mesylate
+salbutamol sulfate
+salcatonin
+salmeterol
+salsalate
+sapropterin dihydrochloride
+sarpogrelate Hydrochloride
+sarpogrelate hydrochloride
+satralizumab
+saxagliptin hydrate
+secnidazole
+secukinumab
+selegiline hydrochloride
+selexipag
+selinexor
+selumetinib hydrogen sulfate
+selumetinib hydrogen sulfate
+semi-alkaline protease
+serenoa repens lipidosterolic ext.
+serratiopeptidase
+sertaconazole nitrate
+sertraline hydrochloride
+sevelamer carbonate
+sevelamer hydrochloride
+sevoflurane
+sildenafil citrate
+silodosin
+siltuximab
+silver sulfadiazine
+simaldrate
+simethicone
+simvastatin
+sirolimus
+sisomicin sulfate
+sitagliptin hydrochloride hydrate
+sitagliptin phosphate hydrate
+sivelestat sodium hydrate
+sizofiran
+sobrerol
+sodium alendronate
+sodium alginate
+sodium ascorbate
+sodium bicarbonate
+sodium carbonate anhydrous
+sodium carboxymethyl cellulose
+sodium chloride
+sodium chondroithine sulfate
+sodium chondroitin sulfate
+sodium citrate
+sodium cromoglycate
+sodium ferric gluconate complex
+sodium ferrous citrate
+sodium fusidate
+sodium hyaluronate
+sodium iodide
+sodium iodide
+sodium nitroprusside
+sodium pertechnetate
+sodium phenylbutyrate
+sodium phytate
+sodium picosulfate
+sodium pyrophosphate
+sodium thiosulfate
+sodium tianeptine
+sodium valproate
+sodium valproate
+sodiumhyaluronate
+sofalcone
+sofosbuvir
+solcoseryl 120 concentrated
+solcoseryl120 ext.
+solcoseryl120ext.
+solifenacin fumarate
+solifenacin succinate
+solifenacin tartrate
+somatorelin acetate
+somatostatin acetate
+somatrogon
+somatropin
+sorafenib tosylate
+sorbitol
+sotalol HCl
+sotalol hydrochloride
+soybean oil
+sparfloxacin
+spectinomycin hydrochloride
+spherical adsorptive carbon
+spiramycin
+spironolactone
+standardized lyophilizate of bacterial lysate
+standardized lyophilized bacterial lysates of E.coli
+standardized lyophilized mixed bacterial lysates
+stavudine
+stiripentol
+streptococcus faecalis bio-4R
+streptococcus faecium strain cernelle-68
+streptococcus pyogenese
+streptokinase·streptodornase
+streptomycin sulfate
+strontium chloride
+sucralfate
+sucralfate gel
+sucroferric oxyhydroxide
+sufentanil citrate
+sulfadiazine
+sulfamethoxazole
+sulfasalazine
+sulfomucopolysaccharide
+sulglycotide
+sulindac
+sulodexide
+sulpiride
+sulprostone
+sultamicillin tosylate
+sumatriptan succinate
+sunitinib malate
+susoctocog alfa
+suxamethonium chloride
+tacalcitol
+tacrolimus
+tacrolimus hydrate
+tafamidis
+tafamidis meglumine
+tafluprost
+talniflumate
+tamoxifen citrate
+tamsulosin hydrochloride
+tandospirone citrate
+tapentadol hydrochloride
+taurolidine
+tedizolid phosphate
+tegafur
+tegoprazan
+teicoplanin
+telbivudine
+telithromycin
+telmisartan
+temocapril hydrochloride
+temozolomide
+temsirolimus
+tenecteplase
+teneligliptin ditosylate dihydrate
+teneligliptin hydrobromide hydrate
+teneligliptin hydrochloride hydrate
+tenofovir alafenamide citrate
+tenofovir alafenamide hemifumarate
+tenofovir alafenamide hemimalate
+tenofovir alafenamide hemitartrate
+tenofovir alafenamide succinate
+tenofovir disoproxil
+tenofovir disoproxil asparate
+tenofovir disoproxil fumarate
+tenofovir disoproxil hemiedisylate
+tenofovir disoproxil orotate
+tenofovir disoproxil phosphate
+tenoxicam
+teprenone
+terazosin hydrochloride
+terbinafine
+terbinafine hydrochloride
+terbutaline sulfate
+teriflunomide
+teriparatide
+teriparatide acetate
+terlipressin acetate
+testosterone cypionate
+testosterone enanthate
+testosterone undecanoate
+tetanus antitoxin
+tetrabenazine
+tetracaine hydrochloride
+tetracosactide
+tetracycline hydrochloride
+tetrahydro l-biopterin·2HCl
+tetrahydrobiopterin l-biopterin
+tetrakis copper(I)tetrafluoroborate
+tetrofosmin sulfosalicylate
+thalidomide
+thallium chloride
+thenothiola sodium
+theobromine
+theophylline
+thiamine HCl
+thiamine hydrochloride
+thiamphenicol
+thiocolchicoside
+thioctic acid tromethamine
+thioctic acid
+thiopental sodium
+thiotepa
+thiothixene
+thrombin
+thymomodulin
+thymopentin acetate hydrate
+thymoxamine hydrochloride
+thyrotropin(TSH) α
+tiapride HCl
+tiaprofenic acid
+tibolone
+ticagrelor
+ticlopidine hydrochloride
+tiemonium iodide
+tigecycline
+timepidium bromide
+timolol maleate
+timonacic
+tinidazole
+tioconazole
+tiotropium bromide monohydrate
+tipepidine hibenzate
+tiquizium bromide
+tirofiban hydrochloride monohydrate
+tiropramide HCl
+tiropramide hydrochloride
+tisagenlecleucel
+tislelizumab
+tizanidine hydrochloride
+tobramycin
+tobramycin sulfate
+tocilizumab
+tocopherol
+tocopherol acetate
+tofacitinib citrate
+tofisopam
+tolazoline HCl
+tolazoline hydrochloride
+tolfenamic acid
+tolperisone hydrochloride
+tolterodine L-tartrate
+tolvaptan
+tolvaptan SD powder
+topiramate
+topotecan hydrochloride
+torasemide
+toremifene citrate
+tosufloxacin tosylate
+tosufloxacin tosylate hydrate
+tralokinumab
+tramadol hydrochloride
+trametinib dimethyl sulfoxide
+tranexamic acid
+tranilast
+trastuzumab
+trastuzumab deruxtecan
+trastuzumab emtansine
+travoprost
+trazodone hydrochloride
+treprostinil
+tretinoin
+triamcinolone
+triamcinolone acetonide
+triazolam
+trientine hydrochloride
+trifluridine
+triflusal
+trihexyphenidyl hydrochloride
+trimebutine maleate
+trimetazidine hydrochloride
+tripamide
+tripegfilgrastim
+tripotassium bismuth dicitrate
+triptorelin acetate
+triptorelin pamoate
+trometamol tiaprofenate
+tropicamide
+tropisetron
+trospium chloride
+troxerutin
+troxipide
+tuberculin
+tulobuterol
+tulobuterol hydrochloride
+ubenimex
+ubidecarenone
+ulinastatin
+ulipristal acetate
+umeclidinium bromide
+umeclidinium bromide micronized
+upadacitinib hemihydrate
+urazamide
+urea
+urea
+urogastrone
+urokinase
+ursodeoxycholic acid
+ustekinumab
+valaciclovir hydrochloride
+valganciclovir hydrochloride
+valproate magnesium
+valproic acid
+valsartan
+vancomycin hydrochloride
+vandetanib
+vasopressin
+vecuronium bromide
+vedolizumab
+velaglucerase α
+vemurafenib mixture
+venetoclax
+venlafaxine hydrochloride
+verapamil HCl
+verapamil hydrochloride
+vericiguat
+verteporfin
+vigabatrin
+vildagliptin
+vildagliptin hydrochloride
+vildagliptin nitrate
+vinblastine sulfate
+vincristine sulfate
+vinorelbine tartrate
+viquidil hydrochloride
+vitamin- K1
+vitamin-K1
+vitis vinifera ext.
+vitis vinifera leaf ext.
+voglibose
+voretigene neparvovec
+voriconazole
+vortioxetine hydrobromide
+warfarin sodium
+water for inj.
+water for injection
+white petrolatum
+xipamide
+zabofloxacin D-Aspartate Sesquihydrate
+zafirlukast
+zaleplon
+zaltoprofen
+zanamivir
+zanubrutinib
+zastaprazan citrate
+zea mays L. ext.
+zidovudine
+zinc acetate
+zinc pyrithione
+zipeprol HCl
+zipeprol hydrochloride
+ziprasidone hydrochloride monohydrate
+zofenopril calcium
+zoledronic acid
+zolmitriptan
+zolpidem tartrate
+zonisamide
+zotepine
+α-lipoic acid
+β-sitosterol
+γ-linolenic acid
+㈜ 젠자임코리아
+㈜대웅제약
+㈜사이넥스
+㈜엘지생명과학
+㈜태준제약
+㈜한국글로벌제약
+㈜한국비엠아이
+㈜휴온스
+가천대학교산학협력단지알피센터
+가천의과학대학교
+갈더마코리아주식회사
+건일바이오팜주식회사
+건일제약(주)
+게르베코리아(주)
+경남제약(주)
+경동제약
+경동제약(주)
+경방신약(주)
+경북대학교병원
+경진제약(주)
+경진제약사
+경풍약품(주)
+고려은단(주)
+고려제약
+고려제약(주)
+광동제약(주)
+광동제약㈜
+광명제약
+광원교역(주)
+구미제약(주)
+구주제약
+구주제약(주)
+구주제약㈜
+국립암센터
+국제약품
+국제약품(주)
+국제약품공업(주)
+국제약품공업㈜
+근화제약
+근화제약(주)
+글락소스미스클라인
+금강제약
+금청약품(주)
+길리어드사이언스코리아 유한회사
+길리어드사이언스코리아(유)
+나래팜
+남북의료기상사가톨릭대학교대전성모병원점
+남북의료기영동세브란스병원점
+남선약품
+넥스팜코리아
+노보노디스크제약(주)
+녹십자
+녹십자엠에스
+뉴젠팜
+단백성분의 정량검사용 시약
+당귀·목과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화 ethanol soft ext.
+당귀·목과·방풍·속단·오가피·우슬·위령선·육계·진교·천궁·천마·홍화 ethanol soft ext.
+대림제약(주)
+대명실업(주)
+대우메디칼상사
+대우약품
+대우제약(주)
+대웅
+대웅바이오(주)
+대웅제약
+대웅제약(주)
+대원바이오텍주식회사
+대원제약
+대원제약(주)
+대원제약㈜
+대유신약
+대한결핵협회
+대한뉴팜
+대한뉴팜(주)
+대한약품
+대한약품공업(주)
+대한적십자사
+대한제당(주)
+대화제약
+대화제약(주)
+독립바이오제약(주)
+동강메디칼시스템(주)
+동광제약
+동광제약(주)
+동광제약㈜
+동구약품
+동국생명과학(주)
+동국제약(주)
+동방에프티엘(주)
+동성제약
+동성제약(주)
+동아에스티(주)
+동아제약
+동아제약(주)
+동인당제약
+동인당제약(주)
+동화약품(주)
+동화약품㈜
+동화약품공업
+두하메드
+듀파마컨설팅
+드림파마
+디아이디바이오(주)
+디케이에스에이치코리아(주)
+디케이에스에이치파마코리아(주)
+레오파마(유)
+롯데제약(주)
+리퓨어헬스케어(주)
+말린크로트코리아(주)
+맥널티제약(주)
+머크(주)
+멀츠아시아퍼시픽피티이엘티디
+메드터치
+메디카코리아
+메디코
+메딕스제약(주)
+명문바이오(주)
+명문제약 (주)
+명문제약(주)
+명문제약㈜
+명인제약
+명인제약(주)
+명인제약㈜
+미래바이오제약(주)
+미래제약(주)
+미쓰비시다나베파마코리아(주)
+미쓰비시다나베파마코리아주식회사
+바슈롬싸우스아시아인크(영업소)
+바이넥스
+바이머파마저먼
+바이엘코리아(주)
+바이엘코리아㈜
+바이오젠코리아유한회사
+박스앨타(유)
+박스터
+밴티브코리아 주식회사
+베이진코리아(유)
+벡톤디킨슨코리아(주)
+보란파마
+보람제약
+보람제약(주)
+보령제약
+보령제약(주)
+보인메디카
+부광약품
+부광약품(주)
+부산대학교
+브라코이미징코리아 유한회사
+브라코이미징코리아(유)
+비브라운코리아(주)
+비씨월드제약
+비아트리스코리아(주)
+비알엔사이언스(주)
+비엘엔에이치(주)
+사노피-아벤티스코리아
+사람 혈장 및 혈청중의 삼일열 말라리아 항체 검사
+사람유래피부각질세포
+삼공제약(주)
+삼남제약
+삼남제약(주)
+삼성바이오에피스(주)
+삼성서울병원
+삼성제약
+삼성제약(주)
+삼성제약공업(주)
+삼신무역상사
+삼아제약
+삼아제약(주)
+삼영메디케어
+삼익제약
+삼익제약(주)
+삼일엘러간
+삼일엘러간(유)
+삼일제약
+삼일제약(주)
+삼일제약㈜
+삼진제약
+삼진제약(주)
+삼천당제약
+삼천당제약(주)
+상정인터내셔널(주)
+상황균사체엑스
+새한산업
+새한산업(주)
+샤이어파마코리아(유)
+서광팜
+서울대학교병원
+서울제약
+서편탐약품
+성광제약(주)
+성원애드콕제약(주)
+성이바이오(주)
+성이바이오제약주식회사
+성진제약
+세균의 그람 양성음성 감별용 시약
+세엘진(유)
+세엘진(유) 유한회사
+세종제약(주)
+세포진 염색용 시약
+세포학적 검사물의 염색
+센트럴메디컬서비스(주)
+셀론텍(주)
+셀티스팜(주)
+수도약품공업
+수성약품(주)
+숙지황·목단피·오미자·천문동·황금·행인·백부근연조엑스(1.4∼1.7→1)·옥수수전분 혼합건조물
+쉐링푸라우코리아(주)
+슈넬생명과학(주)
+스미스앤드네퓨(주)
+시믹씨엠오코리아주식회사
+신동방메딕스
+신신제약(주)
+신원덴탈(주)
+신일제약
+신일제약(주)
+신진메딕스(주)
+신풍제약
+신풍제약(주)
+신흥(주)
+싱코르헬스케어(주)
+싸이젠코리아(주)
+싸이젠코리아㈜
+씨에스엘베링코리아(유)
+씨제이제일제당(주)
+씨제이헬스케어(주)
+씨트리
+아남제약
+아이큐어(주)
+아주약품
+아주약품(주)
+아주약품㈜
+아주약품공업(주)
+악텔리온파마수티컬즈코리아(주)
+안국뉴팜(주)
+안국약품
+안국약품(주)
+안국약품㈜
+안텐진제약(주)
+알레파인터내쇼날
+알리코제약(주)
+알리코제약㈜
+알보젠코리아(주)
+알앤피코리아(주)
+알파제약(주)
+암젠코리아(유)
+암젠코리아유한회사
+애드파마(주)
+에리슨제약(주)
+에스에스팜(주)
+에스케이케미칼(주)
+에스케이플라즈마(주)
+에스피씨(주)
+에이씨엠(주)
+에이엠오아시아리미티드한국지점
+에이징생명과학(주)
+에이치엘비제약(주)
+에이치제이바이오팜(주)
+에이치케이바이오이노베이션 주식회사
+에이치케이이노엔(주)
+에이치팜
+에이프로젠제약(주)
+에치비아이(주)
+에픽팜(주)
+엔비케이제약
+엔비케이제약(주)
+엔코맥(주)
+엔터팜
+엘디에스약품
+연세의료원
+영원약품
+영일약품
+영일제약(주)
+영진약품
+영진약품(주)
+영진약품공업(주)
+영풍제약
+영풍제약(주)
+영풍제약㈜
+영풍제약주식회사
+오스템파마주식회사
+오스틴제약(주)
+오펠라헬스케어코리아(주)
+온코닉테라퓨틱스(주)
+요,분변등의 혈액성분 검출시약
+요단백,포도당,우로빌리노겐 동시 검사용 시험지
+요단백질, 포도당, PH, 잠혈 동시검사용 시험지
+요당분의 검출시약
+요에서 legionella pneumophila serogroup 1항원의 진단
+요중 단백질 검사용 시험지
+요중 단백질, 포도당, PH, 비중 동시 검사용 시험지
+요중 단백질, 포도당, 우로빌로노겐,빌리루빈, 잠혈 동시 검사용 시험지
+요중 잠혈 검사용 시험지
+요중 케톤체 검사용 시험지
+요중 포도당 검사용 시험지
+요중 포도당,단백질,잠혈 동시 검사용시험지
+요중, 포도당, 케톤체 동시 검사용 시험지
+요중단백질, 포도당, PH, 우로빌리노겐, 빌리루빈, 케톤체, 잠혈, 아질산염 동시검사용 시험지
+요중단백질,포도당,PH,우로빌리노겐,빌리루빈,케톤체,잠혈아질산염,비중 동시검사용시험지
+요중단백질,포도당,우로빌리노겐,빌리루빈,케톤체,잠혈,아질산염,비중,비타민씨,백혈구 동시검사용 시험지
+요중의 단백, 포도당, 빌리루빈, 케톤체, 잠혈, 아질산염 동시 검사용시험지
+요중의 단백질 성분 검출시약
+요중의 담즙색소검출 시약
+요중의 방광종양항원 정성시험을 통하여 방광암의 체외진단
+요중의 우로빌리노겐 성분 검출시약
+요중의단백,포도당, 잠혈, 아질산염 동시 검사용시험지
+요중의우로빌리노겐,빌리루빈 동시 검사용 시험지
+요중포도당 검사용시험지
+요중포도당,단백질 동시 검사용시험지
+요중포도당,단백질,PH 동시 검사용시험지
+요중포도당,단백질,PH,우로빌리노겐,빌리루빈,케톤체,잠혈 동시 검사용시험지
+요중포도당,단백질,PH,우로빌리노겐,빌리루빈,케톤체,잠혈,아질산염 동시 검사용시험지
+요중포도당,단백질,PH,우로빌리노겐,잠혈 동시 검사용시험지
+요중포도당,단백질,PH,잠혈 동시 검사용시험지
+요중포도당,단백질,빌리루빈,케톤체,아질산염,잠혈 동시 검사용시험지
+요중포도당,단백질,우로빌리노겐 동시 검사용시험지
+요증 포도당, 단백질 동시 검사용 시험지
+요증,포도당,단백질, 동시검사용 시험지
+우리들생명과학(주)
+우리들제약(주)
+우리제약(주)
+우신메딕스
+우양팜(주)
+원광제약(주)
+위더스제약(주)
+위령선, 괄루근, 하고초 ethanol ext.
+유니메드제약(주)
+유영제약
+유유제약
+유유제약(주)
+유한메디카
+유한양행
+유화메디칼
+의료법인한라의료재단
+의료용 기재등의 소독멸균
+이니스트바이오제약(주)
+이미징솔루션코리아(주)
+이수앱지스(주)
+이수앱지스㈜
+이연제약(주)
+이영레이너(주)
+익수제약(주)
+인비다코리아(주)
+인솔(주)
+인터메딕
+일동제약
+일동제약(주)
+일성신약(주)
+일성아이에스(주)
+일양바이오팜(주)
+일양바이오팜㈜
+일양약품
+일양약품(주)
+일청상사
+일화
+입센코리아(주)
+자오가·우슬·방풍·두충·구척·흑두 dried ext.
+재단법인아산사회복지재단서울아산병원
+전남대학교병원
+전북대학교병원
+전업소
+정우신약(주)
+정인약품무역상사
+제이더블유생명과학(주)
+제이더블유신약
+제이더블유신약(주)
+제이더블유중외신약(주)
+제이더블유중외제약(주)
+제이알팜
+제이에스엠헬스케어
+제이에스엠헬스케어(주)
+제이에스제약(주)
+제이텍바이오젠
+제이텍바이오팜
+제일기린약품(주)
+제일약품
+제일약품(주)
+제일헬스사이언스(주)
+제주대학교병원
+젠자임코리아
+조선대학교산학협력단
+조아제약(주)
+종근당
+(주) 노바엠헬스케어
+(주) 뉴큐어엠
+(주) 더유제약
+(주) 엔에프
+(주) 청명약품
+주식회사다나젠
+주식회사박스터코리아
+주식회사씨트리
+주식회사아이엔테라퓨틱스
+주식회사에스피씨코리아
+주식회사제뉴원사이언스
+주식회사케이에스제약
+주식회사코어파마
+주식회사큐엘파마
+중외제약
+지디파마(주)
+지엘파마(주)
+지엘팜텍(주)
+지원메디칼
+지이헬스케어 에이에스 한국지점
+지이헬스케어에이에스한국지점
+지피제약(주)
+지피테라퓨틱스코리아주식회사
+진양제약
+진양제약(주)
+진욱물산(주)
+참제약
+천우신약(주)
+청계제약(주)
+체외임신진단
+초당약품공업(주)
+카이헬스케어(주)
+칼자이스(주)
+케어캠프(주)
+케이알디(주)
+케이엠에스제약(주)
+코스맥스바이오(주)
+코스맥스파마(주)
+코오롱제약
+코오롱제약(주)
+콜마파마(주)
+콜마파마㈜
+큐어시스
+크라운제약(주)
+크리스탈생명과학(주)
+크리스탈지노믹스(주)
+클리니젠코리아(유)
+태극제약(주)
+태림제약
+태양팜
+태준제약
+태창산업(주)
+태평양제약
+테고사이언스(주)
+파마리서치
+파마링크코리아(주)
+파마사이언스코리아(주)
+파마피아
+파미래(주)
+폐렴증상을 가진 환자로부터 얻은 요검체에서 streptococcus pneumoniae 항원의 검출
+풍림무약
+풍림무약(주)
+풍림무약주식회사
+퓨처메디칼
+프레지니우스카비코리아(주)
+하나제약
+하나제약(주)
+하나제약㈜
+하원제약
+하이플생명과학(주)
+한국갬브로(주)
+한국갬브로솔루션(주)
+한국넬슨
+한국넬슨제약(주)
+한국넬슨제약㈜
+한국노바티스(주)
+한국다이이찌산쿄(주)
+한국다케다제약 주식회사
+한국다케다제약(주)
+한국디비팜(주)
+한국룬드벡(주)
+한국릴리(유)
+한국마이팜제약
+한국맥널티(주)
+한국먼디파마 유한회사
+한국먼디파마유한회사
+한국메나리니(주)
+한국메디텍제약
+한국메디텍제약(주)
+한국바이오메딕스
+한국바이오켐제약(주)
+한국베링거인겔하임(주)
+한국비엠에스제약
+한국산도스(주)
+한국산텐제약(주)
+한국산텐제약㈜
+한국세르비에(주)
+한국슈넬제약(주)
+한국슈와츠파마(주)
+한국스티펠(주)
+한국신텍스제약(주)
+한국쓰리엠(주)
+한국아스텔라스제약(주)
+한국아스트라제네카(주)
+한국알리코팜
+한국알콘(주)
+한국애보트(유)
+한국애보트(주)
+한국애브비(주)
+한국약품(주)
+한국얀센
+한국에자이(주)
+한국에자이㈜
+한국엘러간(주)
+한국엠알비(주)
+한국엠에스디(유)
+한국엠에스디(주)
+한국오가논(주)
+한국오노약품공업(주)
+한국오노약품공업주식회사
+한국오츠카제약(주)
+한국와이어스(주)
+한국원자력연구원
+한국원자력의학원
+한국웨일즈제약(주)
+한국웰팜(주)
+한국유나이티드바이오켐제약(주)
+한국유나이티드제약
+한국유나이티드제약(주)
+한국유니온제약
+한국유니온제약(주)
+한국유씨비제약(주)
+한국인스팜(주)
+한국제닉스(주)
+한국존슨앤드존슨메디칼(주)
+한국존슨앤드존슨판매(유)
+한국코러스(주)
+한국코러스제약
+한국코아제약(주)
+한국코와(주)
+한국콜마(주)
+한국쿄와기린(주)
+한국쿄와하코기린(주)
+한국파마
+한국파비스바이오텍
+한국페링제약(주)
+한국프라임제약
+한국프라임제약(주)
+한국화이자제약(주)
+한국화이자제약㈜
+한국휴텍스제약(주)
+한국희귀의약품센터
+한국희귀필수의약품센터
+한도상사(주)
+한독약품
+한독테바(주)
+한림제약
+한림제약(주)
+한림제약㈜
+한미약품
+한미약품(주)
+한불바이오(주)
+한불약품
+한불제약
+한불제약(주)
+한서제약
+한서제약(주)
+한솔신약(주)
+한영제약
+한올바이오파마(주)
+한올바이오파마㈜
+한올제약
+한올제약(주)
+한중제약(주)
+한화제약
+한화제약(주)
+항산성균의 감별염색
+해동기기(주)
+해태에이치티비(주)
+헤모그로빈 측정시약
+현대약품(주)
+혈액 및 세균등의 염색시약
+혈액도말표본염색용
+혈액중 백혈구 계산
+혈액중 헤모글로빈 정량검사
+혈액중의 백혈구 계산용시약
+혈장 및 혈청중의 매독균 항체검사
+혈청 에이에스티효소 정량검사
+혈청 에이엘티효소 정량검사
+혈청 지피티효소 정량검사
+혈청,뇨중의 아밀라제 효소성분 정럄검사용 시약
+혈청,요등의 요산 성분정량검사용 시약
+혈청,요등의 요소질소 성분 정량검사 시약
+혈청,요등의 요소질소 성분 정량검사용 시약
+혈청,요등의 크레아치닌 정량검사용 시약
+혈청,요중의 염화물 정량검사용 시약
+혈청,요중의 크레아치닌 성분 정량사용시약
+혈청,혈장또는 양수증의 AFP검출
+혈청등의 알부민성분 정량검사용 시약
+혈청등의 알카리성 인산효소성분의 측정시약
+혈청등의 콜레스테롤성분 정량검사
+혈청등의 콜레스테롤성분 정량검사 시약
+혈청등의 포도당 정량검사 시약
+혈청비리루빈 정량검사 시약
+혈청의 치몰 혼탁도 검사시약
+혈청이나 혈장 중 1.5-anhydro-D-glucitol(AG)측정
+혈청이나 혈장중 글루코스 측정용
+혈청중 HDL콜레스테롤 정량
+혈청중 감마-글루타밀트란스펩티다제 활성 검사용
+혈청중 감마글루타밀 트란스 퍼레이스효소 정량검사
+혈청중 감마글루타밀 트란스퍼레이스(감마지티)효소 정량검사
+혈청중 감마글루타밀 트란스퍼레이스효소 정량검사
+혈청중 감마지타피 활성측정
+혈청중 감마지티피 활성 측정
+혈청중 마그네슘 정량 검사
+혈청중 마그네슘 정량검사
+혈청중 매독 항체 측정용 시약
+혈청중 무기인 정럄검사
+혈청중 무기인 정량 검사
+혈청중 무기인 정량검사
+혈청중 무기인 정량검사용
+혈청중 빌리루빈 정량 검사
+혈청중 빌리루빈측정
+혈청중 아밀라제 활성 정량
+혈청중 아밀라제 활성 정량 검사
+혈청중 아밀라제 활성 측정
+혈청중 알부민 정량 검사
+혈청중 알부민 정량검사
+혈청중 알부민 정량검사용
+혈청중 알카리성 인산효소성분 측정용 시약
+혈청중 알카리성 인산효소성분 측정용시약
+혈청중 알카리성 포스파타제 활성 검사용
+혈청중 알카리성포스파타 제활성 정량 검사
+혈청중 알카리포스파타제 활성 정량검사
+혈청중 알칼리성 포스파타제 활성치 측정
+혈청중 에디에이치효소 정량검사
+혈청중 에이치디일씨 정량검사
+혈청중 에취디엘 콜레스테롤 정량검사
+혈청중 염화물 정량검사
+혈청중 요산 정량 검사
+혈청중 요산 정량검사
+혈청중 요산 정량검사용
+혈청중 요소질소 성분 정량검사
+혈청중 요소질소 정량 검사
+혈청중 요소질소 정량검사
+혈청중 요소질소 정량검사용
+혈청중 유리콜레스테롤 성분정량
+혈청중 유리콜레스트롤 정량
+혈청중 젖산 탈수소 효소 활성 정량 검사
+혈청중 젖산 탈수소 효소 활성 정량검사
+혈청중 젖산 탈수소 효소활성 정량검사
+혈청중 젖산 탈수소효소 활성 검사용
+혈청중 중성지방 정량
+혈청중 중성지방 정량 검사
+혈청중 중성지방 정량 검사용
+혈청중 지오티 측정
+혈청중 지오티 활성 정량 검사
+혈청중 지오티 활성정량검사
+혈청중 지오티,지피티 활성 정량 검사
+혈청중 지오티.지피티 측정
+혈청중 지오티활성검사용
+혈청중 지오티효소 정량검사
+혈청중 지피티 측정
+혈청중 지피티 활성 정량 검사
+혈청중 지피티 활성검사용
+혈청중 지피티 활성정량검사
+혈청중 직접빌리루빈 정량검사용
+혈청중 총 콜레스테롤 성분.정량검사시약
+혈청중 총단백 정량
+혈청중 총단백 정량 검사
+혈청중 총단백 정량검사용
+혈청중 총빌리루빈 정량 검사
+혈청중 총빌리루빈 정량검사
+혈청중 총빌리루빈 정량검사용
+혈청중 총빌리루빈 측정
+혈청중 총콜레스테롤 정량 검사
+혈청중 총콜레스테롤 정량검사용
+혈청중 치몰혼탁 정량검사
+혈청중 치몰혼탁 측정
+혈청중 칼슘 성분측정
+혈청중 칼슘 정량 검사
+혈청중 칼슘 정량 검사용
+혈청중 칼슘 정량검사
+혈청중 콜레스테롤 성분 정량검사 시약
+혈청중 크레아치닌 정량검사
+혈청중 크레아티닌 정량 검사
+혈청중 클레아치닌 정량검사용
+혈청중 트리글리세라이드 정량검사
+혈청중 포도당 정량 검사
+혈청중 포도당 정량검사용
+혈청중 포도당 측정용 시약
+혈청중 헤모글로빈 정량검사
+혈청중 헤모글로빈 측정
+혈청중의 마그네슘 성분정량 검사용
+혈청중의 알카리성인산효소 정량검사 시약
+혈청중포도당측정용시약
+혈청지오티효소 정량검사
+혈청지피티효소 정량검사
+혈청칼슘 정량검사 시약
+혈청크레아틴 정량검사
+협진무약(주)
+호스피라코리아(주)
+호스피라코리아㈜
+화리약품(주)
+화순전남대학병원
+화일약품(주)
+환인제약(주)
+후메디칼(주)
+휴온스
+휴젤주식회사
