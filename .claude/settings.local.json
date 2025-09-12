@@ -4,7 +4,9 @@
       "Bash(python:*)",
       "Bash(mkdir:*)",
       "Bash(grep:*)",
-      "Bash(sed:*)"
+      "Bash(sed:*)",
+      "Bash(del process_pharma_dict.py)",
+      "Bash(del merge_same_ingredients.py)"
     ],
     "deny": [],
     "ask": []
